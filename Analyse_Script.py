@@ -3,7 +3,7 @@
 -Période : 28/10/2022 -> 30/10/2026 (données journalières)
 -Source des données : historiques Excel téléchargés sur Investing.com, dans le même dossier que ce script
 -Les Graphiques de chaque actif sont exportés dans ce dossier en png à l'execution du script
--Auteurs : M. YANNICK TCHALLA , M. FRANCKY BOUTING , M. YOHANN NINDJIN , M. CHRISTOPHE NINDJIN 
+-Auteur : M. YANNICK TCHALLA 
 
 """
 import pandas as pd
